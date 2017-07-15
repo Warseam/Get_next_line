@@ -3,6 +3,7 @@ The reproduction of the Getline function.
 
 For Epitech students : 
 
-Ce get_next_line passe 100% des tests. 
+Ce get_next_line passe 100% des tests.       Attention au -42... :)
 
-Attention au -42... :)
+
+Remerciements à Philippe pour son aide :D
